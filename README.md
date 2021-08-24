@@ -36,6 +36,7 @@ actualiza  el valor del parametro que le pasamos para la carrera indicada
 ##Consideraciones:
 
 *Se eliminaron credenciales de acceso a Zendesk por ser un repositorio de acceso publico
+
 *Se utilizo Eclipse como IDE, con el modulo Lombok instalado para las notaciones de Getter y Setters
 
 
