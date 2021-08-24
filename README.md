@@ -49,4 +49,4 @@ actualiza  el valor del parametro que le pasamos para la carrera indicada
 
 *Se utilizo Eclipse como IDE, con el modulo Lombok instalado para las notaciones de Getter y Setters
 
-
+*Se utilizo base de datos temporal en memoria H2
