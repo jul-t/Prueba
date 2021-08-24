@@ -19,5 +19,4 @@ public class Carrera {
 	private int id;
 	private String nombre;
 	private String duracion;
-	private int materias;
 }
