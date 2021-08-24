@@ -33,7 +33,7 @@ DELETE a http://localhost:8093/abm/carreras/{id} pasando por parametro el id de 
 PUT a http://localhost:8093/abm/carreras/{id} con JSON en el body formateado como ejemplo y el id de la carrera a actualizar:
 
 {
-    "nombre":"Medicina",
+    "nombre":"Medicina"
 }
 
 actualiza  el valor del parametro que le pasamos para la carrera indicada
