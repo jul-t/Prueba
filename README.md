@@ -5,6 +5,11 @@ GET a http://localhost:8093/zendesk/getcomments?ticket_id={ticketid} devuelve un
 
 POST a http://localhost:8093/zendesk/postcomment?ticket_id={ticketid} con texto plano sin formatear en el body del POST, postea dicho texto como comentario del ticket con la id indicada en el parametro
 
+
+
+
+
+
 #ABM de Carrera
 #USO:
 
@@ -32,6 +37,11 @@ PUT a http://localhost:8093/abm/carreras/{id} con JSON en el body formateado com
 }
 
 actualiza  el valor del parametro que le pasamos para la carrera indicada
+
+
+
+
+
 
 ##Consideraciones:
 
